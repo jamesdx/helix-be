@@ -1,4 +1,4 @@
-package com.helix.helixbe;
+package com.helix;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

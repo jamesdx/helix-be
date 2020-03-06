@@ -1,4 +1,4 @@
-package com.helix.helixbe;
+package com.helix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
